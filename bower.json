@@ -1,0 +1,9 @@
+{
+  "name": "nagiosapp",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular-route": "1.5.3",
+    "angular": "1.5.3"
+  }
+}
